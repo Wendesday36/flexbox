@@ -1,0 +1,11 @@
+header{
+    text-align: start;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: brown;
+    color: aliceblue;
+}
